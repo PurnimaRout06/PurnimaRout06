@@ -1,4 +1,4 @@
-## （￣︶￣）About me:
+## 🐢 About me:
 # ✨Hello World, Rout here.
 🪼I'm currently working on full stack development.\
 🐚I'm currently learning data analysis and data engineering.\
