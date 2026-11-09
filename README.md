@@ -1,12 +1,4 @@
-
-
-https://github.com/user-attachments/assets/37694041-5eec-4c83-8717-d7814c72367f
-
-
-
-<video width="100%" controls>
-  <source src="./Diving_in_the_code.mp4" type="video/mp4">
-</video>
+![Project Demo](./Diving_in_the_code.gif)
 
 ## 🐢 About me:
 # ✨Hello World, Rout here.
