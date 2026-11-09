@@ -1,5 +1,6 @@
-https://github.com/PurnimaRout06/Diving_in_the_code.mp4
-
+<video width="100%" controls>
+  <source src="./Diving_in_the_code.mp4" type="video/mp4">
+</video>
 
 ## 🐢 About me:
 # ✨Hello World, Rout here.
